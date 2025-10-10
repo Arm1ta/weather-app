@@ -18,5 +18,5 @@ A simple and responsive **Weather Application** built with **HTML**, **CSS**, an
 ## Getting Started
 
 1. **Clone the repository:**
-   git clone https://github.com/Arm1ta/weather-app.git
-   cd weather-app
+- git clone https://github.com/Arm1ta/weather-app.git
+- cd weather-app
