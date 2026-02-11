@@ -15,8 +15,3 @@ A simple and responsive **Weather Application** built with **HTML**, **CSS**, an
 - JavaScript (ES6+)
 - OpenWeatherMap API
 
-## Getting Started
-
-1. **Clone the repository:**
-- git clone https://github.com/Arm1ta/weather-app.git
-- cd weather-app
